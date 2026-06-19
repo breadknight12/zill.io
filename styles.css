@@ -1,10 +1,10 @@
 h1 {
   color: black;
-  style: Open_sans;
+  font: Open_sans;
 }
 h2 {
   color: rgb(40, 40, 40);
-  style: Open_sans;
+  font: Open_sans;
 }
 body {
   text-align: center;
