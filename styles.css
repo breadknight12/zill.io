@@ -1,4 +1,10 @@
 h1 {
   color: black;
   style: Open_sans;
+  text-align: center;
+}
+h2 {
+  color: rgb(40, 40, 40);
+  style: Open_sans;
+  text-align: center;
 }
